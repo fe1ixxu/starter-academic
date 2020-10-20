@@ -17,5 +17,5 @@ summary = """
 tags = ["PR"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/fe1ixxu/ISSD"
+external_link = "https://github.com/fe1ixxu/ISSS"
 +++
