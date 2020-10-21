@@ -77,5 +77,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+*My wish is to fix the language of the world!*
 
 I am a second-year master student in Computer Science concentration on Human Language Technology at Johns Hopkins University, affiliated with the Center for Language and Speech Processing (CLSP). My primary advisor is Philipp Koehn. My most recent research focuses on Multilingual Word Embedding and Cross-lingual Transfer Learning. I am also interested in applying Domain Adaptation to NLP tasks. Prior to JHU, I worked as a research assistant with Mojtaba Soltanalian on Quadratic Programming at UIC. Before starting my graduate study, I received the Winner Award in 2018 Expo at UIC and the Best Research Paper Award at East China University of Science and Technology, with a focus on Machine Learning and Pattern Recognition with the application on dynamic signature recognition. 
