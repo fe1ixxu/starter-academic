@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include Multilingual Word Embedding, Cross-Lingual Transfer Learning, Machine Translation and Domain Adaptation.
 
 interests:
-- Computational Linguistics
 - Natural Language Processing
+- Computational Linguistics
 - Multilinguality
 - Machine Learning
 - Computer Vision
