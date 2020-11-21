@@ -29,13 +29,13 @@ interests:
 
 education:
   courses:
-  - course: MS in Computer Science
+  - course: M.S. in Computer Science
     institution: Johns Hopkins University
     year: Present
-  - course: MS in Electrical and Computer Engineering
+  - course: M.S. in Electrical and Computer Engineering
     institution: University of Illinois at Chicago (3+2 Exchange Program)
     year: 2019
-  - course: BEng in Information Engineering
+  - course: B.E. in Information Engineering
     institution: East China University of Science and Technology 
     year: 2018
 
