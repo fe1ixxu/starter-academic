@@ -32,7 +32,7 @@ education:
   - course: MS in Computer Science
     institution: Johns Hopkins University
     year: Present
-  - course: MS in Electronic and Computer Engineering
+  - course: MS in Electrical and Computer Engineering
     institution: University of Illinois at Chicago (3+2 Exchange Program)
     year: 2019
   - course: BEng in Information Engineering
