@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Multilingual Word Embedding, Cross-Lingual Transfer Learning, Machine Translation and Domain Adaptation.
+bio: My research interests include Cross-Lingual Transfer Learning, Machine Translation and Domain Adaptation.
 
 interests:
 - Natural Language Processing
@@ -29,9 +29,12 @@ interests:
 
 education:
   courses:
-  - course: M.S. in Computer Science
+  - course: Ph.D. in Computer Science
     institution: Johns Hopkins University
     year: Present
+  - course: M.S. in Computer Science
+    institution: Johns Hopkins University
+    year: 2020
   - course: M.S. in Electrical and Computer Engineering
     institution: University of Illinois at Chicago (3+2 Exchange Program)
     year: 2019
@@ -76,4 +79,4 @@ user_groups:
 ---
 *My wish is to fix the world of languages!*
 
-I will join [Amazon Alexa](https://www.amazon.science/tag/alexa) as Applied Scientist Intern soon! I am a second-year master student in Computer Science concentration on Human Language Technology at Johns Hopkins University, affiliated with the Center for Language and Speech Processing (CLSP). My primary advisor is <font color=black>[Philipp Koehn](http://www.cs.jhu.edu/~phi/)</font>. My most recent research focuses on Cross-lingual Transfer Learning and Machine Translation. I am also working on zero-shot cross-lingual information extraction under the supervision of [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/) and [Mark Dredze](https://www.cs.jhu.edu/~mdredze/). I am also interested in applying Domain Adaptation to NLP tasks. Prior to JHU, I was a research assistant working on Quadratic Programming with Mojtaba Soltanalian at UIC. Before starting my graduate study, I received the Winner Award in 2018 Expo at UIC and the Best Research Paper Award at East China University of Science and Technology, focusing on Machine Learning and Pattern Recognition with the application to dynamic signature recognition. 
+I will join [Amazon Alexa AI](https://www.amazon.science/tag/alexa) as Applied Scientist Intern soon! I am a Ph.D. student in Computer Science at Johns Hopkins University, affiliated with the Center for Language and Speech Processing (CLSP), co-advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Kenton Murray](https://kentonmurray.com/). My most recent research focuses on Cross-lingual Transfer Learning and Machine Translation. I am also interested in applying Domain Adaptation to NLP tasks. Last summer, I joined the intern program at [blab](https://www.cs.jhu.edu/~vandurme/collaborators.html) and worked on zero-shot cross-lingual information extraction under the supervision of [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/) and [Mark Dredze](https://www.cs.jhu.edu/~mdredze/).  Prior to JHU, I was a research assistant working on Quadratic Programming with Mojtaba Soltanalian at UIC. Before starting my graduate study, I received the Winner Award in the 2018 Expo at UIC and the Best Research Paper Award at East China University of Science and Technology, focusing on Machine Learning and Pattern Recognition with the application to dynamic signature recognition. 
