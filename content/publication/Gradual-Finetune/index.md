@@ -35,7 +35,7 @@ publication: Adapt-NLP， EACL 2021
 links:
 #- name: Custom Link
  # url: http://example.org
-url_pdf: https://arxiv.org/abs/2103.02205
+url_pdf: https://www.aclweb.org/anthology/2021.adaptnlp-1.22/
 url_code: 'https://github.com/fe1ixxu/Gradual-Finetune'
 #url_dataset: '#'
 #url_poster: '#'
