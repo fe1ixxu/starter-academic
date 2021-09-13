@@ -1,9 +1,10 @@
 ---
-title: "Zero-Shot Cross-Lingual Dependency Parsing through Contextual Embedding Transformation"
+title: "BERT, mBERT, BiBERT? A Study on Contextualized Embeddings for Supervised Neural Machine Translation"
 authors:
 - Haoran Xu
-- Philipp Koehn
-date: "2021-03-02T00:00:00Z"
+- Benjamin Van Durme
+- Kenton Murray
+date: "2021-09-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +17,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Adapt-NLP， EACL 2021
+publication: EMNLP 2021
 #publication_short: In *STC*
 
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -31,8 +32,8 @@ publication: Adapt-NLP， EACL 2021
 links:
 #- name: Custom Link
  # url: http://example.org
-url_pdf: https://www.aclweb.org/anthology/2021.adaptnlp-1.21/
-url_code: 'https://github.com/fe1ixxu/ZeroShot-CrossLing-Parsing'
+url_pdf: https://arxiv.org/abs/2109.04588
+url_code: https://github.com/fe1ixxu/BiBERT
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''

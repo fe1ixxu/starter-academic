@@ -1,9 +1,9 @@
 ---
-title: "Cross-Lingual Contextual Embedding Space Mapping"
+title: "Cross-Lingual BERT Contextual Embedding Space Mapping with Isotropic and Isometric Conditions"
 authors:
 - Haoran Xu
 - Philipp Koehn
-date: "2020-08-01T00:00:00Z"
+date: "2021-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Under Review
+publication: preprint
 #publication_short: In *STC*
 
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -31,7 +31,7 @@ publication: Under Review
 links:
 #- name: Custom Link
  # url: http://example.org
-#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://arxiv.org/abs/2107.09186
 url_code: 'https://github.com/fe1ixxu/Contextual_Mapping'
 #url_dataset: '#'
 #url_poster: '#'

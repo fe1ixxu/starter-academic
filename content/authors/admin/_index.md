@@ -35,9 +35,6 @@ education:
   - course: M.S. in Computer Science
     institution: Johns Hopkins University
     year: 2020
-  - course: M.S. in Electrical and Computer Engineering
-    institution: University of Illinois at Chicago (3+2 Exchange Program)
-    year: 2019
   - course: B.E. in Information Engineering
     institution: East China University of Science and Technology 
     year: 2018
@@ -55,10 +52,11 @@ social:
   link: https://twitter.com/fe1ixxu
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=rhcrGQ0AAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
   link: https://github.com/fe1ixxu
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -79,4 +77,4 @@ user_groups:
 ---
 *My wish is to fix the world of languages!*
 
-I will join [Amazon Alexa AI](https://www.amazon.science/tag/alexa) as Applied Scientist Intern soon! I am a Ph.D. student in Computer Science at Johns Hopkins University, affiliated with the Center for Language and Speech Processing (CLSP), co-advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Kenton Murray](https://kentonmurray.com/). My most recent research focuses on Cross-lingual Transfer Learning and Machine Translation. I am also interested in applying Domain Adaptation to NLP tasks. Last summer, I joined the intern program at [blab](https://www.cs.jhu.edu/~vandurme/collaborators.html) and worked on zero-shot cross-lingual information extraction under the supervision of [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/) and [Mark Dredze](https://www.cs.jhu.edu/~mdredze/).  Prior to JHU, I was a research assistant working on Quadratic Programming with Mojtaba Soltanalian at UIC. Before starting my graduate study, I received the Winner Award in the 2018 Expo at UIC and the Best Research Paper Award at East China University of Science and Technology, focusing on Machine Learning and Pattern Recognition with the application to dynamic signature recognition. 
+ I am a Ph.D. student in Computer Science at Johns Hopkins University, affiliated with the Center for Language and Speech Processing (CLSP), co-advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Kenton Murray](https://kentonmurray.com/). My most recent research focuses on Cross-lingual Transfer Learning and Machine Translation. I am also interested in applying Domain Adaptation to NLP tasks. I was an Applied Scientist Intern at [Amazon Alexa AI](https://www.amazon.science/tag/alexa) in the summer 2021. I joined the intern program at [blab](https://www.cs.jhu.edu/~vandurme/collaborators.html) in the summer 2020 and worked on zero-shot cross-lingual information extraction under the supervision of [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/) and [Mark Dredze](https://www.cs.jhu.edu/~mdredze/).  Prior to JHU, I was a research assistant working on Quadratic Programming with Mojtaba Soltanalian at UIC. Before starting my graduate study, I received the Winner Award in the 2018 Expo at UIC and the Best Research Paper Award at East China University of Science and Technology, focusing on Machine Learning and Pattern Recognition with the application to dynamic signature recognition. 
