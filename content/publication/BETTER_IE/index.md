@@ -42,7 +42,7 @@ publication: EMNLP 2021
 links:
 #- name: Custom Link
  # url: http://example.org
-# url_pdf: https://arxiv.org/abs/2109.04588
+url_pdf: https://arxiv.org/abs/2109.06798
 # url_code: https://github.com/fe1ixxu/BiBERT
 #url_dataset: '#'
 #url_poster: '#'
