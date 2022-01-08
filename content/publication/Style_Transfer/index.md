@@ -1,10 +1,12 @@
 ---
-title: "BERT, mBERT, BiBERT? A Study on Contextualized Embeddings for Supervised Neural Machine Translation"
+title: "VAE based Text Style Transfer with Pivot Words Enhancement Learning"
 authors:
 - Haoran Xu
-- Benjamin Van Durme
-- Kenton Murray
-date: "2021-09-02T00:00:00Z"
+- Sixing Lu
+- Zhongkai Sun
+- Chengyuan Ma
+- Chenlei Guo
+date: "2021-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +19,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: EMNLP 2021
+publication: The Eighteenth International Conference on Natural Language Processing, 2021
 #publication_short: In *STC*
 
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -32,8 +34,8 @@ publication: EMNLP 2021
 links:
 #- name: Custom Link
  # url: http://example.org
-url_pdf: https://aclanthology.org/2021.emnlp-main.534/
-url_code: https://github.com/fe1ixxu/BiBERT
+url_pdf: https://assets.amazon.science/63/8f/ab050e334cfb83ed6ff63b47ce35/vae-based-text-style-transfer-with-pivot-words-enhancement-learning.pdf
+url_code: https://github.com/fe1ixxu/VT-STOWER
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''

@@ -79,4 +79,13 @@ user_groups:
 ---
 *My wish is to fix the world of languages!*
 
- I am a Ph.D. student in Computer Science at Johns Hopkins University, affiliated with the Center for Language and Speech Processing (CLSP), co-advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Kenton Murray](https://kentonmurray.com/). My most recent research focuses on Cross-lingual Transfer Learning and Machine Translation. I am also interested in applying Domain Adaptation to NLP tasks. I was an Applied Scientist Intern at [Amazon Alexa AI](https://www.amazon.science/tag/alexa) in the summer 2021. I joined the intern program at [blab](https://www.cs.jhu.edu/~vandurme/collaborators.html) in the summer 2020 and worked on zero-shot cross-lingual information extraction under the supervision of [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/) and [Mark Dredze](https://www.cs.jhu.edu/~mdredze/).  Prior to JHU, I was a research assistant working on Quadratic Programming with Mojtaba Soltanalian at UIC. Before starting my graduate study, I received the Winner Award in the 2018 Expo at UIC and the Best Research Paper Award at East China University of Science and Technology, focusing on Machine Learning and Pattern Recognition with the application to dynamic signature recognition. 
+ I am a Ph.D. student in Computer Science at Johns Hopkins University, affiliated with the Center for Language and Speech Processing (CLSP), co-advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Kenton Murray](https://kentonmurray.com/). My most recent research focuses on Cross-lingual Transfer Learning and Machine Translation. 
+ 
+
+ ###### **News**:
+ * Incoming Reseach Intern at [Facebook AI Research](https://ai.facebook.com/)
+ * Two papers are accepted at [EMNLP 2021](https://2021.emnlp.org/)
+ * Join [Amazon Alexa AI](https://www.amazon.science/tag/alexa) as Applied Scientist Intern
+ * Two papers are accepted at [Adapt-NLP, EACL 2021](https://2021.eacl.org/)
+ * Join the intern program at [blab](https://www.cs.jhu.edu/~vandurme/collaborators.html), 2020
+

@@ -42,8 +42,8 @@ publication: EMNLP 2021
 links:
 #- name: Custom Link
  # url: http://example.org
-url_pdf: https://arxiv.org/abs/2109.06798
-# url_code: https://github.com/fe1ixxu/BiBERT
+url_pdf: https://aclanthology.org/2021.emnlp-main.149/
+url_code: https://github.com/shijie-wu/crosslingual-nlp
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
