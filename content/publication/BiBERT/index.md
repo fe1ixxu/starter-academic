@@ -1,5 +1,5 @@
 ---
-title: "BERT, mBERT, BiBERT? A Study on Contextualized Embeddings for Supervised Neural Machine Translation"
+title: "BERT, mBERT, BiBERT? A Study on Contextualized Embeddings for Neural Machine Translation"
 authors:
 - Haoran Xu
 - Benjamin Van Durme
