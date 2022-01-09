@@ -19,13 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
-
+[[experience]]
+  title = "Research Intern"
+  company = "Center for Language and Speech Processing"
+  company_url = "https://www.clsp.jhu.edu/"
+  location = "Baltimore"
+  date_start = "2020-05-25"
+  date_end = "2020-12-30"
+  description = """Investigated cross-lingual transfer learning and machine translation"""
+  
 [[experience]]
   title = "Applied Scientist Intern"
   company = "Amazon Alexa AI"
   company_url = "https://www.amazon.science/tag/alexa"
   location = "Seattle"
-  date_start = "2021-05-01"
+  date_start = "2021-05-15"
   date_end = "2021-08-31"
   description = """Worked on novel style transfer algorithms that transfer the text style while keeps the main semantics"""
 
