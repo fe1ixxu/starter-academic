@@ -39,7 +39,7 @@ url_code: https://github.com/fe1ixxu/BiBERT
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
-#url_video: '#'
+url_video: https://underline.io/lecture/37793-bert,-mbert,-or-bibertquestion-a-study-on-contextualized-embeddings-for-neural-machine-translation
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

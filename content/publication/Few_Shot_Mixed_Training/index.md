@@ -1,20 +1,9 @@
 ---
-title: "Everything Is All It Takes: A Multipronged Strategy for Zero-Shot Cross-Lingual Information Extraction"
+title: "Por Qué Não Utiliser Alla Språk? Mixed Training with Gradient Optimization in Few-Shot Cross-Lingual Transfer"
 authors:
-- Mahsa Yarmohammadi
-- Shijie Wu
-- Marc Marone
 - Haoran Xu
-- Seth Ebner
-- Guanghui Qin
-- Yunmo Chen
-- Jialiang Guo
-- Craig Harman
 - Kenton Murray
-- Aaron Steven White
-- Mark Dredze
-- Benjamin Van Durme
-date: "2021-09-01T00:00:00Z"
+date: "2022-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +16,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: EMNLP 2021
+publication: Findings of NAACL 2022
 #publication_short: In *STC*
 
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -42,14 +31,14 @@ publication: EMNLP 2021
 links:
 #- name: Custom Link
  # url: http://example.org
-url_pdf: https://aclanthology.org/2021.emnlp-main.149/
-url_code: https://github.com/shijie-wu/crosslingual-nlp
+url_pdf: https://arxiv.org/pdf/2204.13869.pdf
+url_code: https://github.com/fe1ixxu/Mixed-Gradient-Few-Shot
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
-url_video: https://underline.io/lecture/37912-everything-is-all-it-takes-a-multipronged-strategy-for-zero-shot-cross-lingual-information-extraction
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
