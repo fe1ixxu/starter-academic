@@ -17,10 +17,10 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-#publication: Under Review
+publication: Preprint
 #publication_short: In *STC*
 
-abstract: In this paper, we propose an enhanced peak-toaverage power ratio (PAPR) reduction framework for MIMO OFDM system based on unimodular quadratic programming (UQP). In addition, we consider a more general setting for PAPR reduction problem in MIMO-OFDM systems and propose a novel power method-like algorithm to effectively tackle the associated UQP. The proposed method can handle arbitrary peak-to-average-power ratio (PAPR) constraints on the transmit sequence, and more importantly, can be used to generate constant modulus signals for such systems. The proposed algorithm demonstrates an improvement in terms of convergence rate compared with the state-of-the-art PAPR reduction method.
+# abstract: In this paper, we propose an enhanced peak-toaverage power ratio (PAPR) reduction framework for MIMO OFDM system based on unimodular quadratic programming (UQP). In addition, we consider a more general setting for PAPR reduction problem in MIMO-OFDM systems and propose a novel power method-like algorithm to effectively tackle the associated UQP. The proposed method can handle arbitrary peak-to-average-power ratio (PAPR) constraints on the transmit sequence, and more importantly, can be used to generate constant modulus signals for such systems. The proposed algorithm demonstrates an improvement in terms of convergence rate compared with the state-of-the-art PAPR reduction method.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
