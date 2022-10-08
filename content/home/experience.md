@@ -38,12 +38,11 @@ date_format = "Jan 2006"
   description = """Worked on novel style transfer algorithms that transfer the text style while keeps the main semantics"""
 
 [[experience]]
-  title = "Research Intern"
+  title = "Research Scientist Intern"
   company = "Facebook AI Research"
   company_url = "https://ai.facebook.com/"
   location = "Menlo Park"
   date_start = "2022-05-24"
-  date_end = "2022-09-09"
-  description = """
-  """
+  date_end = "2022-12-06"
+  description = """Studied self-supervised learning method for multilingual machine translation"""
 +++

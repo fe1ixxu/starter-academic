@@ -1,9 +1,10 @@
 ---
-title: "Por Qué Não Utiliser Alla Språk? Mixed Training with Gradient Optimization in Few-Shot Cross-Lingual Transfer"
+title: "The Importance of Being Parameters: An Intra-Distillation Method for Serious Gains"
 authors:
 - Haoran Xu
+- Philipp Koehn
 - Kenton Murray
-date: "2022-04-07T00:00:00Z"
+date: "2022-10-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,8 +17,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Findings of NAACL 2022
-#publication_short: In *STC*
+publication: EMNLP 2022
+# publication_short: In *EMNLP 2021*
 
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -31,14 +32,14 @@ publication: Findings of NAACL 2022
 links:
 #- name: Custom Link
  # url: http://example.org
-url_pdf: https://aclanthology.org/2022.findings-naacl.157
-url_code: https://github.com/fe1ixxu/Mixed-Gradient-Few-Shot
+url_pdf: https://arxiv.org/pdf/2205.11416.pdf
+url_code: https://github.com/fe1ixxu/Intra-Distillation
 #url_dataset: '#'
-url_poster: 'files/Naacl22_poster.pdf'
+#url_poster: '#'
 #url_project: ''
 #url_slides: ''
 #url_source: '#'
-#url_video: '#'
+#url_video: https://underline.io/lecture/37793-bert,-mbert,-or-bibertquestion-a-study-on-contextualized-embeddings-for-neural-machine-translation
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

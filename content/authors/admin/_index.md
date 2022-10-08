@@ -21,11 +21,10 @@ organizations:
 bio: My research interests include Cross-Lingual Transfer Learning, Machine Translation and Domain Adaptation.
 
 interests:
-- Natural Language Processing
-- Computational Linguistics
+- Machine Translation
+- Cross-Lingual Learning
 - Multilinguality
-- Machine Learning
-- Computer Vision
+- Pre-Training
 
 education:
   courses:
@@ -80,5 +79,7 @@ user_groups:
 *My wish is to fix the world of languages!*
 
  I am a Ph.D. student in Computer Science at Johns Hopkins University, affiliated with the Center for Language and Speech Processing (CLSP), co-advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Kenton Murray](https://kentonmurray.com/). My most recent research focuses on Cross-lingual Learning and Machine Translation. 
+
+ I also had good fortune to intern at [Meta (Facebook) AI Research](https://ai.facebook.com/) and [Amazon Alexa AI](https://www.amazon.science/tag/alexa).
  
 
