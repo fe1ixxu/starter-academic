@@ -39,10 +39,10 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Scientist Intern"
-  company = "Facebook AI Research"
+  company = "Meta (Facebook) AI Research"
   company_url = "https://ai.facebook.com/"
   location = "Menlo Park"
   date_start = "2022-05-24"
   date_end = "2022-12-06"
-  description = """Studied self-supervised learning method for multilingual machine translation"""
+  description = """Studied self-supervised learning method for multilingual machine translation under the No Language Left Behind (NLLB) group"""
 +++
