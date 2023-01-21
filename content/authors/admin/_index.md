@@ -80,6 +80,6 @@ user_groups:
 
  I am a Ph.D. student in Computer Science at Johns Hopkins University, affiliated with the Center for Language and Speech Processing (CLSP), co-advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Kenton Murray](https://kentonmurray.com/). My most recent research focuses on Cross-lingual Learning and Machine Translation. 
 
- I also had good fortune to intern at [Meta (Facebook) AI Research](https://ai.facebook.com/) and [Amazon Alexa AI](https://www.amazon.science/tag/alexa).
+ I also had good fortune to intern at [Meta (Facebook) AI Research](https://ai.facebook.com/) and [Amazon Alexa AI](https://www.amazon.science/tag/alexa). I will be joining [Microsoft Research](https://www.microsoft.com/en-us/research/) in the upcoming summer!
  
 

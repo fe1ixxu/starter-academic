@@ -44,5 +44,14 @@ date_format = "Jan 2006"
   location = "Menlo Park"
   date_start = "2022-05-24"
   date_end = "2022-12-06"
-  description = """Studied self-supervised learning method for multilingual machine translation under the No Language Left Behind (NLLB) group"""
+  description = """Studied self-supervised learning method and mixture of experts (MoE) for multilingual machine translation under the No Language Left Behind (NLLB) group"""
+
+[[experience]]
+  title = "Research Scientist Intern"
+  company = "Microsoft Research"
+  company_url = "https://www.microsoft.com/en-us/research/"
+  location = "Bellevue"
+  date_start = "2023-05-24"
+  date_end = "2023-08-16"
+  description = "Multilingual Machine Translation"
 +++
