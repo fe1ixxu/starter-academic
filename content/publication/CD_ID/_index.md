@@ -2,9 +2,9 @@
 title: "The Importance of Being Parameters: An Intra-Distillation Method for Serious Gains"
 authors:
 - Haoran Xu
-- Philipp Koehn
-- Kenton Murray
-date: "2022-10-06T00:00:00Z"
+- Jean Maillard
+- Vedanuj Goswami
+date: "2023-02-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: EMNLP 2022
+publication: Findings of EACL 2023
 # publication_short: In *EMNLP 2021*
 
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -32,8 +32,8 @@ publication: EMNLP 2022
 links:
 #- name: Custom Link
  # url: http://example.org
-url_pdf: https://aclanthology.org/2022.emnlp-main.13/
-url_code: https://github.com/fe1ixxu/Intra-Distillation
+url_pdf: https://arxiv.org/pdf/2302.05008.pdf
+url_code: https://github.com/fe1ixxu/CD_ID_MMT
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
