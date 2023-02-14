@@ -1,5 +1,5 @@
 ---
-title: "The Importance of Being Parameters: An Intra-Distillation Method for Serious Gains"
+title: "Language-Aware Multilingual Machine Translation with Self-Supervised Learning"
 authors:
 - Haoran Xu
 - Jean Maillard

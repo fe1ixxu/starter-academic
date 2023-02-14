@@ -76,7 +76,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-*My wish is to fix the world of languages!*
+<!-- *My wish is to fix the world of languages!* -->
 
  I am a Ph.D. student in Computer Science at Johns Hopkins University, affiliated with the Center for Language and Speech Processing (CLSP), co-advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Kenton Murray](https://kentonmurray.com/). My most recent research focuses on Cross-lingual Learning and Machine Translation. 
 
