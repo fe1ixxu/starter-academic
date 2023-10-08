@@ -4,7 +4,7 @@ authors:
 - Haoran Xu
 - Benjamin Van Durme
 - Kenton Murray
-date: "2021-09-02T00:00:00Z"
+date: "2021-11-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -37,7 +37,7 @@ url_code: https://github.com/fe1ixxu/BiBERT
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-#url_slides: ''
+url_slides: 'files/bibert.pptx'
 #url_source: '#'
 url_video: https://underline.io/lecture/37793-bert,-mbert,-or-bibertquestion-a-study-on-contextualized-embeddings-for-neural-machine-translation
 

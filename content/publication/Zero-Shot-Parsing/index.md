@@ -36,7 +36,7 @@ url_code: 'https://github.com/fe1ixxu/ZeroShot-CrossLing-Parsing'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-#url_slides: ''
+url_slides: 'files/zero-shot.pptx'
 #url_source: '#'
 #url_video: '#'
 

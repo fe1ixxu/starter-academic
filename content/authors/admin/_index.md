@@ -24,7 +24,7 @@ interests:
 - Machine Translation
 - Cross-Lingual Learning
 - Multilinguality
-- Pre-Training
+- Large Language Model
 
 education:
   courses:
@@ -78,8 +78,8 @@ user_groups:
 ---
 <!-- *My wish is to fix the world of languages!* -->
 
- I am a Ph.D. student in Computer Science at Johns Hopkins University, affiliated with the Center for Language and Speech Processing (CLSP), co-advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Kenton Murray](https://kentonmurray.com/). My most recent research focuses on Cross-lingual Learning and Machine Translation. 
+ I am a Ph.D. student in Computer Science at Johns Hopkins University, affiliated with the Center for Language and Speech Processing (CLSP), co-advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Kenton Murray](https://kentonmurray.com/). My most recent research focuses on Machine Translation, Large Language Models, and Cross-lingual Learning. 
 
- I also had good fortune to intern at [Meta (Facebook) AI Research](https://ai.facebook.com/) and [Amazon Alexa AI](https://www.amazon.science/tag/alexa). I will be joining [Microsoft Research](https://www.microsoft.com/en-us/research/) in the upcoming summer!
+ I also had good fortune to intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), [Meta (Facebook) AI Research](https://ai.facebook.com/) and [Amazon Alexa AI](https://www.amazon.science/tag/alexa).
  
 

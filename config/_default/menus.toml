@@ -19,15 +19,20 @@
   weight = 25
 
 [[main]]
+  name = "Preprints"
+  url = "#preprints"
+  weight = 29
+
+[[main]]
   name = "Publications"
   url = "#publications"
   weight = 30
 
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 40
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 40
 
 
 

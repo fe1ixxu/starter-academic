@@ -6,7 +6,7 @@ authors:
 - Zhongkai Sun
 - Chengyuan Ma
 - Chenlei Guo
-date: "2021-12-01T00:00:00Z"
+date: "2021-11-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -36,10 +36,10 @@ links:
  # url: http://example.org
 url_pdf: https://assets.amazon.science/63/8f/ab050e334cfb83ed6ff63b47ce35/vae-based-text-style-transfer-with-pivot-words-enhancement-learning.pdf
 url_code: https://github.com/fe1ixxu/VT-STOWER
+url_slides: 'files/style_transfer.pptx'
 #url_dataset: '#'
 #url_poster: '#'
-#url_project: ''
-#url_slides: ''
+# url_project: ''
 #url_source: '#'
 #url_video: '#'
 

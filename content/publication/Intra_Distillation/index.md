@@ -37,7 +37,7 @@ url_code: https://github.com/fe1ixxu/Intra-Distillation
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-#url_slides: ''
+url_slides: 'files/intra_distillation.pptx'
 #url_source: '#'
 #url_video: https://underline.io/lecture/37793-bert,-mbert,-or-bibertquestion-a-study-on-contextualized-embeddings-for-neural-machine-translation
 

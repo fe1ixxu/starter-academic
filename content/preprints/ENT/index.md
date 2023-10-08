@@ -1,13 +1,13 @@
 ---
-title: "Gradual Fine-Tuning for Low-Resource Domain Adaptation"
+title: "Error Norm Truncation: Robust Training in the Presence of Data Noise for Text Generation Models"
 authors:
+- Tianjian Li
 - Haoran Xu
-- Seth Ebner
-- Mahsa Yarmohammadi
-- Aaron White
-- Benjamin Van Durme
+- Philipp Koehn
+- Daniel Khashabi
 - Kenton Murray
-date: "2021-03-03T00:00:00Z"
+
+date: "2023-09-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,8 +20,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Adapt-NLP， EACL 2021
-#publication_short: In *STC*
+publication: Arxiv
+# publication_short: In *EMNLP 2021*
 
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -35,14 +35,14 @@ publication: Adapt-NLP， EACL 2021
 links:
 #- name: Custom Link
  # url: http://example.org
-url_pdf: https://www.aclweb.org/anthology/2021.adaptnlp-1.22/
-url_code: 'https://github.com/fe1ixxu/Gradual-Finetune'
+url_pdf: https://browse.arxiv.org/pdf/2310.00840.pdf
+url_code: https://github.com/tianjianl/error_norm_truncation
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-url_slides: 'files/gradual.pptx'
+# url_slides: 'files/'
 #url_source: '#'
-#url_video: '#'
+#url_video: https://underline.io/lecture/37793-bert,-mbert,-or-bibertquestion-a-study-on-contextualized-embeddings-for-neural-machine-translation
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

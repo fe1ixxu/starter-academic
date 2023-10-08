@@ -19,14 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
-[[experience]]
-  title = "Research Intern"
-  company = "Center for Language and Speech Processing"
-  company_url = "https://www.clsp.jhu.edu/"
-  location = "Baltimore"
-  date_start = "2020-05-25"
-  date_end = "2020-12-30"
-  description = """Investigated cross-lingual transfer learning and machine translation"""
+
+# [[experience]]
+#  title = "Research Intern"
+#  company = "Center for Language and Speech Processing"
+#  company_url = "https://www.clsp.jhu.edu/"
+#  location = "Baltimore"
+#  date_start = "2020-05-25"
+#  date_end = "2020-12-30"
+#  description = """Investigated cross-lingual transfer learning and machine translation"""
   
 [[experience]]
   title = "Applied Scientist Intern"
@@ -52,6 +53,6 @@ date_format = "Jan 2006"
   company_url = "https://www.microsoft.com/en-us/research/"
   location = "Bellevue"
   date_start = "2023-05-24"
-  date_end = "2023-08-16"
-  description = "Multilingual Machine Translation"
+  date_end = "2024-01-12"
+  description = "Shifted Training Paradigm in Machine Translation with Large Language Models"
 +++
