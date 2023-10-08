@@ -9,7 +9,7 @@ weight = 29  # Order that this section will appear.
 
 title = "Preprints"
 subtitle = ""
-
+date_format = "January 2006"
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "preprints"
