@@ -1,13 +1,16 @@
 ---
-title: "Error Norm Truncation: Robust Training in the Presence of Data Noise for Text Generation Models"
+title: "Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation"
 authors:
-- Tianjian Li
 - Haoran Xu
-- Philipp Koehn
-- Daniel Khashabi
+- Amr Sharaf
+- Yunmo Chen
+- Weiting Tan
+- Lingfeng Shen
+- Benjamin Van Durme
 - Kenton Murray
+- Young Jin Kim
 
-date: "2023-09-19T00:00:00Z"
+date: "2024-01-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,8 +38,8 @@ publication: Arxiv
 links:
 #- name: Custom Link
  # url: http://example.org
-url_pdf: https://browse.arxiv.org/pdf/2310.00840.pdf
-url_code: https://github.com/tianjianl/error_norm_truncation
+url_pdf: https://arxiv.org/pdf/2401.08417.pdf
+url_code: https://github.com/fe1ixxu/ALMA
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''

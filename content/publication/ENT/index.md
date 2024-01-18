@@ -1,10 +1,11 @@
 ---
-title: "A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models"
+title: "Error Norm Truncation: Robust Training in the Presence of Data Noise for Text Generation Models"
 authors:
+- Tianjian Li
 - Haoran Xu
-- Young Jin Kim
-- Amr Sharaf
-- Hany Hassan Awadalla
+- Philipp Koehn
+- Daniel Khashabi
+- Kenton Murray
 
 date: "2023-09-20T00:00:00Z"
 doi: ""
@@ -19,7 +20,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Arxiv
+publication: ICLR 2024
 # publication_short: In *EMNLP 2021*
 
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -34,8 +35,8 @@ publication: Arxiv
 links:
 #- name: Custom Link
  # url: http://example.org
-url_pdf: https://browse.arxiv.org/pdf/2309.11674.pdf
-url_code: https://github.com/fe1ixxu/ALMA
+url_pdf: https://browse.arxiv.org/pdf/2310.00840.pdf
+url_code: https://github.com/tianjianl/error_norm_truncation
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''

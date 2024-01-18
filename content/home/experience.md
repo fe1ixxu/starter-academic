@@ -53,6 +53,6 @@ date_format = "Jan 2006"
   company_url = "https://www.microsoft.com/en-us/research/"
   location = "Bellevue"
   date_start = "2023-05-24"
-  date_end = "2024-01-12"
-  description = "Shifted Training Paradigm in Machine Translation with Large Language Models"
+  date_end = ""
+  description = "Investigated multilingual machine translation for Large Language Models: [ALMA Models](https://github.com/fe1ixxu/ALMA)!"
 +++
