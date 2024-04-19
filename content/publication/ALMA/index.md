@@ -36,12 +36,12 @@ links:
  # url: http://example.org
 url_pdf: https://browse.arxiv.org/pdf/2309.11674.pdf
 url_code: https://github.com/fe1ixxu/ALMA
-#url_dataset: '#'
+url_dataset: 'https://huggingface.co/datasets/haoranxu/ALMA-R-Preference'
 #url_poster: '#'
 #url_project: ''
-# url_slides: 'files/'
+url_slides: 'files/ALMA-ICLR.pdf'
 #url_source: '#'
-#url_video: https://underline.io/lecture/37793-bert,-mbert,-or-bibertquestion-a-study-on-contextualized-embeddings-for-neural-machine-translation
+url_video: https://recorder-v3.slideslive.com/?share=91953&s=4cb7f7f3-3ba9-4880-88fb-616aae3f463c
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
