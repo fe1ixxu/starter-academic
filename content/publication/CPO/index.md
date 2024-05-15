@@ -1,16 +1,17 @@
 ---
-title: "Streaming Sequence Transduction through Dynamic Compression"
+title: "Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation"
 authors:
-- Weiting Tan
-- Yunmo Chen
-- Tongfei Chen
-- Guanghui Qin
 - Haoran Xu
-- Heidi C Zhang
+- Amr Sharaf
+- Yunmo Chen
+- Weiting Tan
+- Lingfeng Shen
 - Benjamin Van Durme
-- Philipp Koehn
+- Kenton Murray
+- Young Jin Kim
 
-date: "2024-02-02T00:00:00Z"
+
+date: "2024-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +24,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Arxiv
+publication: ICML 2024
 # publication_short: In *EMNLP 2021*
 
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -38,14 +39,14 @@ publication: Arxiv
 links:
 #- name: Custom Link
  # url: http://example.org
-url_pdf: https://arxiv.org/pdf/2402.01172
-url_code: https://github.com/steventan0110/STAR
-#url_dataset: '#'
+url_pdf: https://arxiv.org/pdf/2401.08417
+url_code: https://github.com/fe1ixxu/ALMA
+url_dataset: 'https://huggingface.co/datasets/haoranxu/ALMA-R-Preference'
 #url_poster: '#'
 #url_project: ''
-# url_slides: 'files/'
+url_slides: 'files/CPO-ICML.pdf'
 #url_source: '#'
-#url_video: https://underline.io/lecture/37793-bert,-mbert,-or-bibertquestion-a-study-on-contextualized-embeddings-for-neural-machine-translation
+# url_video: https://recorder-v3.slideslive.com/?share=91953&s=4cb7f7f3-3ba9-4880-88fb-616aae3f463c
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

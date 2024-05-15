@@ -82,4 +82,5 @@ user_groups:
 
  I also had good fortune to intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), [Meta (Facebook) AI Research](https://ai.facebook.com/) and [Amazon Alexa AI](https://www.amazon.science/tag/alexa).
  
+**I will join Microsoft GenAI as a Senior Researcher starting from this Fall!**
 
