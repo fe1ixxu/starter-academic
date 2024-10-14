@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "haoranxu@microsoft.com"
+email = "haoranxu AT microsoft dot com"
 #phone = "888 888 88 88"
 
 # Address

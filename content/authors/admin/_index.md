@@ -64,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "haoranxu@microsoft.com"
+email: "haoranxu AT microsoft dot com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
