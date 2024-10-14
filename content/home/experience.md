@@ -51,8 +51,18 @@ date_format = "Jan 2006"
   title = "Research Scientist Intern"
   company = "Microsoft Research"
   company_url = "https://www.microsoft.com/en-us/research/"
-  location = "Bellevue"
+  location = "Redmond"
   date_start = "2023-05-24"
-  date_end = ""
+  date_end = "2024-08-23"
   description = "Investigated multilingual machine translation for Large Language Models: [ALMA Models](https://github.com/fe1ixxu/ALMA)!"
+
+
+[[experience]]
+  title = "Senior Researcher"
+  company = "Microsoft GenAI"
+  company_url = "https://www.microsoft.com/en-us/research/"
+  location = "Redmond"
+  date_start = "2024-10-07"
+  date_end = ""
+  description = "Phi pre-training and post-training"
 +++

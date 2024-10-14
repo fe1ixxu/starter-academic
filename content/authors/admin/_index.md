@@ -10,27 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: NLPer
+role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Johns Hopkins University
+- name: Microsoft GenAI
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Cross-Lingual Transfer Learning, Machine Translation and Domain Adaptation.
 
 interests:
-- Machine Translation
-- Cross-Lingual Learning
-- Multilinguality
 - Large Language Model
+- Machine Translation
+- Multilinguality
 
 education:
   courses:
   - course: Ph.D. in Computer Science
     institution: Johns Hopkins University
-    year: Present
+    year: 2024
   - course: M.S. in Computer Science
     institution: Johns Hopkins University
     year: 2020
@@ -65,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "hxu64@jhu.edu"
+email: "haoranxu@microsoft.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -78,9 +77,8 @@ user_groups:
 ---
 <!-- *My wish is to fix the world of languages!* -->
 
- I am a Ph.D. student in Computer Science at Johns Hopkins University, affiliated with the Center for Language and Speech Processing (CLSP), co-advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Kenton Murray](https://kentonmurray.com/). My most recent research focuses on Machine Translation, Large Language Models, and Cross-lingual Learning. 
+ I am a Senior Researcher at Microsoft GenAI. I earned my Ph.D. in Computer Science from Johns Hopkins University in 2024, co-advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Kenton Murray](https://kentonmurray.com/). My most recent research focuses on foundational training of large language models, machine translation, and multilinguality. Please find up-to-date list of all my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=rhcrGQ0AAAAJ&hl=en&authuser=1).
 
  I also had good fortune to intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), [Meta (Facebook) AI Research](https://ai.facebook.com/) and [Amazon Alexa AI](https://www.amazon.science/tag/alexa).
- 
-**I will join Microsoft GenAI as a Senior Researcher starting from this Fall!**
+
 
