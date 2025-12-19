@@ -49,7 +49,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Scientist Intern"
-  company = "Microsoft Research"
+  company = "Microsoft"
   company_url = "https://www.microsoft.com/en-us/research/"
   location = "Redmond"
   date_start = "2023-05-24"
@@ -58,11 +58,11 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Senior Researcher"
-  company = "Microsoft GenAI"
-  company_url = "https://www.microsoft.com/en-us/research/"
+  title = "Member of Techinique Staff"
+  company = "Microsoft AI SuperIntelligence"
+  company_url = "https://microsoft.ai/"
   location = "Redmond"
   date_start = "2024-10-07"
   date_end = ""
-  description = "Phi pre-training and post-training"
+  description = "OpenAI model post-training; Coding agent training; Phi pre-training and post-training"
 +++

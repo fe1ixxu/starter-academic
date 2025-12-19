@@ -10,19 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Researcher
+role: Member of Techinique Staff
 
 # Organizations/Affiliations
 organizations:
-- name: Microsoft GenAI
+- name: Microsoft AI SuperIntelligence
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Cross-Lingual Transfer Learning, Machine Translation and Domain Adaptation.
+bio: My research explores next-generation AI agents, focusing on the complex reasoning and automated engineering of language models, aiming to build highly capable agents for technical domains.
 
 interests:
 - Large Language Model
-- Machine Translation
 - Multilinguality
 
 education:
@@ -77,8 +76,10 @@ user_groups:
 ---
 <!-- *My wish is to fix the world of languages!* -->
 
- I am a Senior Researcher at Microsoft GenAI. I earned my Ph.D. in Computer Science from Johns Hopkins University in 2024, co-advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Kenton Murray](https://kentonmurray.com/). My most recent research focuses on foundational training of large language models, machine translation, and multilinguality. Please find up-to-date list of all my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=rhcrGQ0AAAAJ&hl=en&authuser=1).
+ I am a Member of Techinique Staff at Microsoft AI SuperIntelligence Team. I earned my Ph.D. in Computer Science from Johns Hopkins University in 2024, co-advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Kenton Murray](https://kentonmurray.com/), with the topic of foundational training of large language models, machine translation, and multilinguality. 
+ 
+ My recent research explores next-generation AI agents, focusing on the complex reasoning and automated engineering of language models, aiming to build highly capable agents for technical domains. Please find up-to-date list of all my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=rhcrGQ0AAAAJ&hl=en&authuser=1).
 
- I also had good fortune to intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), [Meta (Facebook) AI Research](https://ai.facebook.com/) and [Amazon Alexa AI](https://www.amazon.science/tag/alexa).
+ I also had good fortune to intern at [Microsoft](https://www.microsoft.com/en-us/research/), [Meta (Facebook) AI Research](https://ai.facebook.com/) and [Amazon Alexa AI](https://www.amazon.science/tag/alexa).
 
 
