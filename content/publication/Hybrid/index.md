@@ -6,7 +6,7 @@ authors:
 - Haoran Xu
 - Young Jin Kim
 - Adam Atkinson
-- Zh7eng Zhan
+- Zheng Zhan
 - Jiankai Sun
 - Baolin Peng
 - Liyuan Liu
