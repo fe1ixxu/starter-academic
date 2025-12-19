@@ -76,7 +76,7 @@ user_groups:
 ---
 <!-- *My wish is to fix the world of languages!* -->
 
- I am a Member of Technical Staff at Microsoft AI SuperIntelligence Team. I earned my Ph.D. in Computer Science from Johns Hopkins University in 2024, co-advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Kenton Murray](https://kentonmurray.com/), with the topic of foundational training of large language models, machine translation, and multilinguality. 
+ I am a Member of Technical Staff at [Microsoft AI SuperIntelligence](https://microsoft.ai/). I earned my Ph.D. in Computer Science from Johns Hopkins University in 2024, co-advised by [Philipp Koehn](http://www.cs.jhu.edu/~phi/) and [Kenton Murray](https://kentonmurray.com/), with the topic of foundational training of large language models, machine translation, and multilinguality. 
  
  My recent research explores next-generation AI agents, focusing on the complex reasoning and automated engineering of language models, aiming to build highly capable agents for technical domains. Please find up-to-date list of all my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=rhcrGQ0AAAAJ&hl=en&authuser=1).
 
