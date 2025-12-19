@@ -58,7 +58,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Member of Techinique Staff"
+  title = "Member of Technical Staff"
   company = "Microsoft AI SuperIntelligence"
   company_url = "https://microsoft.ai/"
   location = "Redmond"
